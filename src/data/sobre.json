@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o CLUBINHOFABERCASTELL"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "No Clubinho Faber-Castell, acreditamos que a criatividade é a chave para o aprendizado. Nossos cursos e atividades são projetados para fomentar a imaginação e o desenvolvimento das crianças, criando um ambiente onde elas possam se expressar livremente e crescer profissionalmente."
+  },
+  "content": "Nossa missão é proporcionar um espaço seguro e enriquecedor para o desenvolvimento das crianças e adolescentes. Acreditamos que a educação deve ser uma jornada criativa, e estamos aqui para apoiar cada passo dessa trajetória.",
+  "mission": "Fomentar a criatividade e a aprendizagem através de técnicas inovadoras e suporte contínuo.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "1.200+",
+      "label": "Artigos"
+    },
+    {
+      "value": "300k+",
+      "label": "Alunos"
+    },
+    {
+      "value": "25",
+      "label": "Professores"
+    }
+  ],
+  "team": []
+}

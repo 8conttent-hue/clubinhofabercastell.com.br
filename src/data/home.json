@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "CLUBINHOFABERCASTELL — Bem-vindo ao Clubinho Faber-Castell!",
+    "description": "Um espaço para estimular a criatividade e o aprendizado das crianças."
+  },
+  "hero": {
+    "title": "Bem-vindo ao Clubinho Faber-Castell!",
+    "subtitle": "Um espaço para estimular a criatividade e o aprendizado das crianças.",
+    "btnText": "Junte-se a nós!",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "🎨",
+        "title": "Técnicas Inovadoras",
+        "desc": "Utilizamos métodos de ensino diferenciados que promovem o raciocínio lógico e o pensamento crítico."
+      },
+      {
+        "icon": "👩‍🏫",
+        "title": "Cursos para Professores",
+        "desc": "Cursos especializados para educadores que buscam aperfeiçoar suas habilidades em sala de aula."
+      },
+      {
+        "icon": "📚",
+        "title": "Apoio ao Aluno",
+        "desc": "Criamos um ambiente aberto para que os alunos possam tirar dúvidas e trocar ideias."
+      },
+      {
+        "icon": "🌱",
+        "title": "Escolha Profissional",
+        "desc": "Apoiamos os alunos na escolha da melhor carreira, orientando segundo suas habilidades e expectativas."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "desc": "No Clubinho Faber-Castell, acreditamos que a criatividade é a chave para o aprendizado. Nossos cursos e atividades são projetados para fomentar a imaginação e o desenvolvimento das crianças, criando um ambiente onde elas possam se expressar livremente e crescer profissionalmente.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Cursos oferecidos"
+      },
+      {
+        "value": "5000+",
+        "label": "Alunos impactados"
+      },
+      {
+        "value": "10+",
+        "label": "Anos de experiência"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

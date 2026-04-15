@@ -1,0 +1,53 @@
+{
+  "name": "CLUBINHOFABERCASTELL",
+  "slug": "clubinhofabercastell.com.br",
+  "description": "Faça parte da nossa família 😉 um lugar para ser criativo A CRIATIVIDADE AJUDA O APRENDIZADO E NA EVOLUÇÃO DE NOSSAS CRIANÇAS  Cursos para professores de todas as matérias escolares. Aperfeiçoamento das habilidades de passar o conhecimento com técnicas inovadoras de ensino.  Técnicas diferenciadas que ajudam o aluno a melhorar o seu aprendizado, através de atividades que estimulam o seu  raciocínio lógico e estimulam o pensamento crítico.  Profissionais qualificados que ajudaram os alunos a escolherem a melhor opção profissional. A escolha profissional deve ser baseada nas habilidades que o aluno quer desenvolver e nas suas expectativas de futuro.  Nós trabalhamos sempre com o apoio aos nossas crianças e adolescentes. Tirar dúvidas faz parte do aprendizado, portanto sempre estará aberto um espaço para trocar ideias e tirar dúvidas.",
+  "url": "https://clubinhofabercastell.com.br",
+  "niche": "Educação",
+  "keywords": "Faca parte da nossa familia um lugar para ser criativo A CRIATIVIDADE",
+  "email": "contato@clubinhofabercastell.com.br",
+  "palette": "ocean",
+  "colors": {
+    "primary": "#0ea5e9",
+    "accent": "#0369a1",
+    "dark": "#0c4a6e"
+  },
+  "headerContrast": "light",
+  "font": "lora",
+  "fontFamily": "'Lora', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "components": {
+    "header": "Header-B",
+    "hero": "Hero-I",
+    "features": "Features-A",
+    "about": "About-C",
+    "posts": "Posts-E",
+    "footer": "Footer-F",
+    "sobre": "Sobre-C",
+    "contato": "Contato-A"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
